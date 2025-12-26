@@ -1,4 +1,4 @@
-regression-model-comparison
+## regression-model-comparison
 📌 Project Overview
 
 This repository contains a comparative machine learning project focused on evaluating and contrasting multiple regression models for forecasting a real-world target variable (e.g., gold prices). The project demonstrates key steps in a typical predictive data science workflow, including data loading, preprocessing, model training, evaluation, and comparison.
